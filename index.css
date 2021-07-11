@@ -1,0 +1,29 @@
+/* body {
+    background-color: bisque;
+}
+*/
+
+.box {
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    width: 50%;
+    height: 50vh;
+    border: 1px solid crimson;
+    border-radius: 10px;
+    -webkit-box-shadow: 5px 10px 16px 0px rgba(0,0,0,0.8); 
+    box-shadow: 5px 10px 16px 0px rgba(0,0,0,0.8);
+    text-align: center;
+    background-color: firebrick;
+}
+
+/*
+.box h2 {
+    font-size: 4rem;
+    color: blue;
+} */
+
+.hidden {
+    display: none;
+}
